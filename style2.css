@@ -1,0 +1,43 @@
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #0000;
+    background-color: orange; 
+    color: black; 
+}
+
+th, td {
+    border: 2px solid #000000;
+    padding: 6px;
+    text-align: center;
+    font-size: 20px;
+}
+
+th {
+    background-color:orange;
+}
+
+/* tr:nth-child(even) {
+    background-color:orange;
+} */
+
+table img {
+    width: auto;
+    height: auto;
+    max-width: 100px;
+    max-height: 100px;
+    display: block;
+    margin: 0 auto;
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+hr {
+    border: 2px solid #000000;
+}
+
+
